@@ -1,0 +1,69 @@
+body {
+    color: white;
+    background: rgb(53, 53, 53);
+    text-align: center;
+    margin: 10px;
+    font-family: "Press Start 2P", system-ui;
+    font-style: normal;
+}
+
+header {
+    background: rgb(34, 34, 34);
+    border-bottom: solid 5px rgb(0, 0, 0);
+    padding: 30px;
+    font-size: 30px;
+    margin: -10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.friskheader {
+    background: rgb(112, 112, 112);
+    border: solid 5px rgb(90, 90, 90);
+    padding: 20px;
+    font-size: 12px;
+    margin-left: 200px;
+    margin-right: 200px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+h1 {
+    font-size:400%;
+    padding: 10px;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 300%;
+    margin: 10px;
+}
+
+h3 {
+    font-size: 200%;
+    margin: 10px;
+}
+
+
+li {
+    font-size: 100%;
+    margin: 10px;
+}
+
+p {
+    font-size: 25px;
+    margin: 25px;
+    line-height: 30px;
+}
+
+.utitle {
+    height: 100%;
+    margin: 40px;
+}
+
+.frisk {
+    height: 250px;
+    margin: 30px;
+}
